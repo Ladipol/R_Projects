@@ -14,12 +14,9 @@ These insights will support the development of compelling data-driven recommenda
 
 ## PREPARE
 
-Use Cyclistic’s historical trip data to analyze and identify trends. Download the previous 12
-months of Cyclistic trip data here. (Note: The datasets have a different name because Cyclistic
-is a fictional company. For the purposes of this case study, the datasets are appropriate and
-will enable you to answer the business questions. The data has been made available by
-Motivate International Inc. under this license.) This is public data that you can use to explore
-how different customer types are using Cyclistic bikes. But note that data-privacy issues
-prohibit you from using riders’ personally identifiable information. This means that you won’t be
+I use Cyclistic’s historical trip data to analyze and identify trends. I downloaded the previous 12
+months of Cyclistic trip data i.e 202304 to 202403. (Note: The datasets have a different name because Cyclistic is a fictional company. For the purposes of this case study, the datasets are appropriate and
+will enable me to answer the business questions. The data has been made available by
+Motivate International Inc. under this license. This confirm the integrity of the data.) This is public data that I use to explore how different customer types are using Cyclistic bikes. Because of data-privacy issues prohibit me from using riders’ personally identifiable information. This means that I won’t be
 able to connect pass purchases to credit card numbers to determine if casual riders live in the
 Cyclistic service area or if they have purchased multiple single passes.
