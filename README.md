@@ -1,6 +1,6 @@
-#ASK
+# ASK
 
-###Business Task Statement
+## Business Task Statement
 
 The primary objective is to understand the differences in usage patterns between casual riders and annual members of Cyclistic's bike-share program. By analyzing historical bike trip data, the aim is to identify trends and insights that will inform the design of marketing strategies to convert casual riders into annual members. The focus is on understanding:
 
